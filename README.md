@@ -1,5 +1,5 @@
 # Desafio-Felipao
- # 1️⃣ Desafio Classificador de nível de Herói
+ # 1️⃣ Desafio Classificador de Nível de Herói
 
 # Alessandro Muniz Caranha
 Sou um Desenolvedor Front-End, atualmente focado em Angular.
@@ -21,6 +21,3 @@ Sou um Desenolvedor Front-End, atualmente focado em Angular.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alemcar.dev/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alessandro_muniz/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alemcar/)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alessandro1979-itac&theme=transparent&bg_color=ec63a1&border_color=ec63a1&show_icons=true&icon_color=000&title_color=000&text_color=FFF)
